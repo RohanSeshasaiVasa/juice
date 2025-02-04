@@ -1,6 +1,6 @@
 # Circuit Surfer
 
-**Team Members:** Rohan Seshasai.vasa, Mohan Seshasai.vasa
+**Team Members:** Rohan Seshasai.vasa, Mohan Seshasai.vasa, Sai Karthik
 
 **How would you pitch your game in one line?**
 "Its like we create an analogy and connect it to gamers doing circuits from easy to hard levels."
